@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\maste\\OneDrive\\Documentos\\GitHub\\crud-asp-net\\CRUDApp\\CRUDApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\OneDrive\\Documentos\\GitHub\\crud-asp-net\\CRUDApp\\CRUDApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\maste\\OneDrive\\Documentos\\GitHub\\crud-asp-net\\CRUDApp\\CRUDApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CRUDApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CRUDApp.props",
+      "PackagePath": "build\\CRUDApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUDApp.props",
+      "PackagePath": "buildMultiTargeting\\CRUDApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CRUDApp.props",
+      "PackagePath": "buildTransitive\\CRUDApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
